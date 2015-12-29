@@ -1,3 +1,3 @@
 # conan-hdk.github.io
 
-http://conan-hdk.github.io/
+https://conan-hdk.github.io/
